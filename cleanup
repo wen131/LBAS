@@ -1,0 +1,13 @@
+sudo killall lt-simple_switch
+sudo rm -f *.pcap
+sudo rm -f *.json
+docker stop h0
+docker stop h1
+docker stop h2
+docker stop h3
+docker stop h4
+docker stop h5
+docker stop h6
+docker stop h7
+docker stop h8
+docker stop h9
